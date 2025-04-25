@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/majid/Documents/Secured-Academic-Transcript-System-Leveraging-Blockchain-and-AI/transcript-chain/contracts/Transcript.sol": {
+      "lastModificationDate": 1745361802934,
+      "contentHash": "e68c354e737c0b062f7ae9cfa27047cb",
+      "sourceName": "contracts/Transcript.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Transcript"
+      ]
+    }
+  }
+}

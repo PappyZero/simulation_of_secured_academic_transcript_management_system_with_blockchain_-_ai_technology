@@ -1,0 +1,24 @@
+[
+    {
+      "name": "John Doe",
+      "studentID": "JD123",
+      "course": "Blockchain 101",
+      "gpa": 3.85,
+      "verified": false
+    },
+    {
+      "name": "Alice Smith",
+      "studentID": "AS456",
+      "course": "Cryptography 201",
+      "gpa": 2.10,
+      "verified": false
+    },
+    {
+      "name": "Bob Johnson",
+      "studentID": "BJ789",
+      "course": "Smart Contracts 301",
+      "gpa": 3.00,
+      "verified": false
+    }
+  ]
+  
